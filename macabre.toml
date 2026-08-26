@@ -1,0 +1,10 @@
+name = "nakai"
+version = "1.1.2"
+[dependencies]
+gleam_stdlib = { git = "git@github.com:dusty-phillips/macabre_stdlib.git", ref = "main" }
+[dev-dependencies]
+envoy = { git = "git@github.com:dusty-phillips/macabre_envoy.git", ref = "main" }
+gleam_json = { git = "git@github.com:dusty-phillips/macabre_gleam_json.git", ref = "main" }
+gleeunit = { git = "git@github.com:dusty-phillips/macabre_gleeunit.git", ref = "main" }
+simplifile = { git = "git@github.com:dusty-phillips/macabre_simplifile.git", ref = "main" }
+filepath = { git = "git@github.com:dusty-phillips/macabre_filepath.git", ref = "main" }
