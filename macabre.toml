@@ -8,3 +8,4 @@ gleam_json = { git = "git@github.com:dusty-phillips/macabre_gleam_json.git", ref
 gleeunit = { git = "git@github.com:dusty-phillips/macabre_gleeunit.git", ref = "main" }
 simplifile = { git = "git@github.com:dusty-phillips/macabre_simplifile.git", ref = "main" }
 filepath = { git = "git@github.com:dusty-phillips/macabre_filepath.git", ref = "main" }
+glychee = ">= 1.0.0"
